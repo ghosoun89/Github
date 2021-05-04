@@ -1,0 +1,19 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Ghosoun ALdabea",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "startWebdriverManager": "webdriver-manager update && webdriver-manager start",
+    "test-ui": "protractor protractor/conf.js"
+  },
+  "devDependencies": {
+    "protractor": "^7.0.0"
+  },
+  "dependencies": {
+    "async": "^3.2.0"
+  }
+}
