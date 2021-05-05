@@ -1,0 +1,10 @@
+{
+  "defaultCommandTimeout": 10000,
+  "integrationFolder": "cypress/integration",
+  "pluginsFile": "cypress/plugins",
+  "screenshotOnRunFailure": false,
+  "supportFile": "cypress/support",
+  "video": false,
+  "viewportHeight": 768,
+  "viewportWidth": 1366
+}
